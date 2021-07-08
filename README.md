@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kashyap
 - ⌛ Actively looking for Data Analyst/ Data Scientist roles.
-- 👀 I’m interested in Data Analyst/ Data Scientist work
+- 👀 I’m interested in Data Analyst/ Data Scientist project work
 - 🌱 I’m currently working on SQL, Power BI, ML.
 - 📫  Reach me out on kashyapbd7@gmail.com
 
