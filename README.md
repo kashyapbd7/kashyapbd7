@@ -2,8 +2,6 @@
 
 Thank you for visiting my Github Profile.
 
-- 🌱 I’m currently learning everything 🤣
-- 🌱 I’m currently working on SQL, Power BI, Tableau.
 - 📫  Reach me out on kashyapbd7@gmail.com
 
 ### Connect with me:
